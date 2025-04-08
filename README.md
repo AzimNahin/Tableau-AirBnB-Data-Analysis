@@ -2,10 +2,6 @@
 
 This repository contains a Tableau-based exploratory analysis of an AirBnB dataset. Using a structured Excel file as the data source, the dashboard presents visual summaries of pricing, availability, capacity, and revenue trends across different property types and locations.
 
-<p align="center">
-  <img src="AirBnB Dashboard.png" alt="AirBnB Dashboard" width="90%">
-</p>
-
 ---
 
 ## 📌 Project Description
